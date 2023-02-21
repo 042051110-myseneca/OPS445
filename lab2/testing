@@ -1,0 +1,8 @@
+timer = 3
+while (len(sys.argv)){
+    if (timer = int(sys.argv[1]){
+    } else {
+        print ("blast off!")
+    }
+    timer <- timer -1
+}
